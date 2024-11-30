@@ -1,3 +1,4 @@
+drop table array_metrics
 create table array_metrics (
     user_id numeric,
     month_start date,

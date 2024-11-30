@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Week 1/console.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 1/console_1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/Homework/homework.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/Homework/monthly_reduced.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/Homework/reduced_incremental.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/Homework/test.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/Week2Day2Lab.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/Week2Day3Lab.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/Week2_Day1_Lab.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 2/console.sql" dialect="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/48994685-9ff5-47ef-a84a-baf1a41d2764/console.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>

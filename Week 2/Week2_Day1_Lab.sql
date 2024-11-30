@@ -1,4 +1,4 @@
-select * from game_details
+select * from game_details;
 
 -- Identify the grain of the table, unique identifiers discovery and look for duplicates
 select game_id, team_id, player_id, count(1)

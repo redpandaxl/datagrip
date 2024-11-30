@@ -1,12 +1,12 @@
--- CREATE TYPE season_stats as (
---     season INTEGER,
---     gp INTEGER,
---     pts REAL,
---     reb REAL,
---     ast REAL
---                             )
---
---
+CREATE TYPE season_stats as (
+    season INTEGER,
+    gp INTEGER,
+    pts REAL,
+    reb REAL,
+    ast REAL
+                            )
+
+
 create type scoring_class as enum ('star', 'good', 'average', 'bad' );
 drop table players
 CREATE TABLE players (
